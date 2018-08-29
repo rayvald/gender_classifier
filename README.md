@@ -1,2 +1,2 @@
 # gender_classifier
-Classification using Scikit-learn
+Gender classifier using Decision Tree in Python with scikit-learn library
